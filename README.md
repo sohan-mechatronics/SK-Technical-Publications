@@ -123,7 +123,6 @@ Your support motivates me to continue creating high-quality engineering handbook
 > 🚀 **Strong Fundamentals + Consistent Practice = Placement Success**
 
 ---
----
 
 ## 🌐 Connect With Me
 
@@ -165,6 +164,6 @@ Your support motivates me to continue creating high-quality engineering handbook
 ---
 ⭐ **If you find this project useful, please consider giving it a ⭐ Star.**
 
-          Made with ❤️ by **Sohan Kumar**
+                      Made with ❤️ by **Sohan Kumar**
 
 © **2026 Sohan Kumar** | **SK Technical Publications** | All Rights Reserved.
