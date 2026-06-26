@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="SK Technical Publications Banner" width="100%">
+</p>
+
+---
 # 📚 SK Technical Publications
 
 > 🚀 Engineering Handbooks • Placement Interview Guides • Technical Learning Resources
